@@ -1,6 +1,6 @@
 Project: Coin-Flip Game
 
-The Coin-flip game is developed using Node.js where the two users will flip a coin by clicking the button and random outcome will be generated on the server side and that will be either Head or Tail.
+The Coin Flip game is built using Node.js, where two users take turns flipping a virtual coin by clicking a button. A random outcome—either Heads or Tails—is generated on the server side.
 
 How It's Made: Tech used: HTML, CSS, JavaScript and Node.js
 
